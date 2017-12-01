@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thongtincacanh>
+  <CaCanh ID="4">
+    <Loai>2</Loai>
+    <Ten>Cá Rồng</Ten>
+    <Dong>kim long quá bối</Dong>
+    <GiaBan>200.000đ đến 2.000.000đ</GiaBan>
+    <KichThuoc>1cm đến gần 1m</KichThuoc>
+    <MoiTruongSong>nước ngọt</MoiTruongSong>
+    <TuoiTho>khoảng 15 năm</TuoiTho>
+    <ThucAn>thức ăn khô, cá mồi, rết, chuột con, tôm,...</ThucAn>
+    <DacDiem>cần môi trường sống ổn định, màu vàng, body đẹp.</DacDiem>
+    <HinhAnh>images\icons\kimlong.jpg</HinhAnh>
+  </CaCanh>
+</thongtincacanh>

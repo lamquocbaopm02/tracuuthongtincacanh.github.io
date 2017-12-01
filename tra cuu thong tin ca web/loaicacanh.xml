@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loaica>
+  <Loaicacanh ID="17">
+    <Loai>4</Loai>
+    <TenLoai>Guppy</TenLoai>
+  </Loaicacanh>
+  <Loaicacanh ID="18">
+    <Loai>5</Loai>
+    <TenLoai>Cá Vàng</TenLoai>
+  </Loaicacanh>
+  <Loaicacanh ID="19">
+    <Loai>6</Loai>
+    <TenLoai>Hồng Két</TenLoai>
+  </Loaicacanh>
+  <Loaicacanh ID="20">
+    <Loai>7</Loai>
+    <TenLoai>Betta</TenLoai>
+  </Loaicacanh>
+  <Loaicacanh ID="21">
+    <Loai>8</Loai>
+    <TenLoai>Cá Săn Mồi</TenLoai>
+  </Loaicacanh>
+  <Loaicacanh ID="31">
+    <Loai>1</Loai>
+    <TenLoai>Cá La Hán</TenLoai>
+  </Loaicacanh>
+  <Loaicacanh ID="32">
+    <Loai>3</Loai>
+    <TenLoai>Cá Dĩa</TenLoai>
+  </Loaicacanh>
+</loaica>

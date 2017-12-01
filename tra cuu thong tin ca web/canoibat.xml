@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<canoibat>
+  <noibat ID="1">
+    <Loai>1</Loai>
+    <Hinh>images\icons\calahan66.png</Hinh>
+    <Ten>Cá La Hán</Ten>
+  </noibat>
+  <noibat ID="2">
+    <Loai>2</Loai>
+    <Hinh>images\icons\carong2.jpg</Hinh>
+    <Ten>Cá Rồng</Ten>
+  </noibat>
+  <noibat ID="3">
+    <Loai>7</Loai>
+    <Hinh>images\icons\ca betta.jpg</Hinh>
+    <Ten>Cá Betta</Ten>
+  </noibat>
+  <noibat ID="4">
+    <Loai>3</Loai>
+    <Hinh>images\icons\cadianoibat.jpg</Hinh>
+    <Ten>Cá Dĩa</Ten>
+  </noibat>
+  <noibat ID="5">
+    <Loai>4</Loai>
+    <Hinh>images\icons\caguppynoibat.jpg</Hinh>
+    <Ten>Guppy</Ten>
+  </noibat>
+  <noibat ID="6">
+    <Loai>8</Loai>
+    <Hinh>images\icons\casauhoatien.jpg</Hinh>
+    <Ten>Cá Săn mồi</Ten>
+  </noibat>
+  <noibat ID="7">
+    <Loai>5</Loai>
+    <Hinh>images\icons\caranchu.jpg</Hinh>
+    <Ten>Cá Vàng</Ten>
+  </noibat>
+  <noibat ID="8">
+    <Loai>6</Loai>
+    <Hinh>images\icons\cahongket.jpg</Hinh>
+    <Ten>Hồng Két</Ten>
+  </noibat>
+</canoibat>
